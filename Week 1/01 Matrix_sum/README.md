@@ -60,18 +60,22 @@
 [matrix_sum_blank](https://github.com/AlekseyNL/Basics-of-C-plus-plus-Development-Yellow-Belt/blob/main/Week%201/01%20Matrix_sum/matrix_sum_blank.cpp)
 
 ### Пример ввода
-3 5
-6 4 -1 9 8
-12 1 2 9 -5
--4 0 12 8 6
+```
+3   5     
+6   4  -1  9   8     
+12  1   2  9  -5    
+-4  0  12  8   6    
 
-3 5
-5 1 0 -8 23
-14 5 -6 6 9
-8 0 5 4 1
+3   5
+5   1   0  -8  23     
+14  5  -6   6  9     
+8   0   5   4  1     
+```
 
 ### Пример вывода
-3 5
-11 5 -1 1 31
-26 6 -4 15 4
-4 0 17 12 7
+```
+3   5
+11  5  -1  1   31
+26  6  -4  15  4
+4   0  17  12  7
+```
