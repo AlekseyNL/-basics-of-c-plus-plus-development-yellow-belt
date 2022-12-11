@@ -16,3 +16,4 @@ The course covers:
 In addition, the course discusses the use of unit tests for debugging programs and ensuring code reliability, and also demonstrates how  to develop your own unit test framework.
 
 [Week_1.](https://github.com/AlekseyNL/Basics-of-C-plus-plus-Development-Yellow-Belt/tree/main/Week%201)
+[Week_2.](https://github.com/AlekseyNL/Basics-of-C-plus-plus-Development-Yellow-Belt/tree/main/Week%202)
